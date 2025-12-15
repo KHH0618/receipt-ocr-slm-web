@@ -1,0 +1,8 @@
+**/.idea/
+./.metadata/
+.venv
+.venv_ocr
+pycache/
+**/model/
+**/qwen2.5-3b-receipt-qlora
+./model_train/test_receipt/

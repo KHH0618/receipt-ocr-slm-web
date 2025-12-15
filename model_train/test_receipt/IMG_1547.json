@@ -1,0 +1,9 @@
+{
+  "payment_date" : "2025-08-01",
+  "type" : "parking",
+  "item" : {
+   "car_plate_number" : "372나3644",
+   "payment_option" : "card",
+   "total_cost" : 4000
+   }
+}

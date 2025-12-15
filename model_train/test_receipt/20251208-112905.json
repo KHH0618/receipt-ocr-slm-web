@@ -1,0 +1,8 @@
+{
+  "payment_date": "2025-12-02",
+  "type": "unknown",
+  "item": {
+    "payment_option": "card",
+    "total_cost": 61400
+  }
+}

@@ -1,0 +1,25 @@
+{
+"payment_date" : "2025-12-11",
+"type" : "materials_costs",
+"item" : {
+ "category" : [
+   {
+    "quantity" : 1,
+    "item_name" : "엘라스틴 맨인매트 클레이왁",
+    "amount" : 5000
+   },
+   {
+    "quantity" : 1,
+    "item_name" : "네오셀 알카라인건전지 LR",
+    "amount" : 2000
+   },
+   {
+    "quantity" : 1,
+    "item_name" : "네오셀 알카라인건전지 LR",
+    "amount" : 2000
+   }
+  ],
+ "payment_option" : "card",
+ "total_cost" : 9000
+ }
+}

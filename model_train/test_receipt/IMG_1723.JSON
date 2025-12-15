@@ -1,0 +1,15 @@
+{
+"payment_date" : "2025-12-10",
+"type" : "food_expenses",
+"item" : {
+ "category" : [
+   {
+    "quantity" : 1,
+    "item_name" : "김치볶음밥",
+    "amount" : 8000
+   }
+  ],
+ "payment_option" : "card",
+ "total_cost" : 8000
+ }
+}

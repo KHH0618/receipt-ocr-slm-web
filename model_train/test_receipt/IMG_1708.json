@@ -1,0 +1,15 @@
+{
+"payment_date" : "2025-12-03",
+"type" : "materials_costs",
+"item" : {
+ "category" : [
+   {
+    "quantity" : 1,
+    "item_name" : "비타할로 일회용 치실 + 케이스, 1개, 1010개입, 74mm",
+    "amount" : 10920
+   }
+  ],
+ "payment_option" : "card",
+ "total_cost" : 10920
+ }
+}
