@@ -1,5 +1,5 @@
 **/.idea/
-./.metadata/
+**/.metadata/
 .venv
 .venv_ocr
 pycache/
