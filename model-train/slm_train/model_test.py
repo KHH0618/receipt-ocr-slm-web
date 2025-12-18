@@ -3,8 +3,8 @@ import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig
 from peft import PeftModel
 
-BASE_MODEL = r"E:\document_slm_project\model\base_model"
-ADAPTER_PATH = r"E:\document_slm_project\slm_train\qwen2.5-3b-receipt-qlora"  # 최종 LoRA 폴더
+BASE_MODEL = r"E:\document_slm_project\model-train\model\base_model"
+ADAPTER_PATH = r"E:\document_slm_project\model-train\model\qwen2.5-3b-receipt-qlora"  # 최종 LoRA 폴더
 
 
 def load_tokenizer_and_model():

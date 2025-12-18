@@ -71,7 +71,7 @@ def run_ocr_for_slm(img_path: str, conf_threshold: float = 0.60) -> str:
         print("❌ 필터링 후 남은 텍스트 없음")
         return ""
 
-    # 👉 핵심: \n 이 실제 줄바꿈이 아니라 문자로 출력되게 join
+    # \n 이 실제 줄바꿈이 아니라 문자로 출력되게 join
     slm_text = "\\n".join(filtered_lines)
 
     print("\n=== 📌 FINAL SLM OUTPUT (복붙용) ===")
